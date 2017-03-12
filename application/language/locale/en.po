@@ -1,0 +1,1118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nint.io v: 0.1.0\n"
+"POT-Creation-Date: 2016-10-21 03:38+0300\n"
+"PO-Revision-Date: 2016-10-21 03:38+0300\n"
+"Last-Translator: \n"
+"Language-Team: Hacı Ali MIZRAK <ali@nint.io>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_e;_nint;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controllers/Login.php:67
+msgid "Bu Kullanıcı Adı Yok"
+msgstr ""
+
+#: controllers/Nint.php:50 helpers/generalibs_helper.php:217
+msgid "AnaSayfa"
+msgstr ""
+
+#: controllers/Nint.php:98 controllers/Nint.php:124
+#: views/admincp/includes/mailbox/mail-read.php:36
+#: views/admincp/includes/mailbox/mail-read.php:63
+msgid "Sonraki"
+msgstr ""
+
+#: controllers/Nintcp.php:333 controllers/Recordscp.php:47
+#: controllers/Recordscp.php:56 controllers/Recordscp.php:77
+#: controllers/Recordscp.php:86 controllers/Recordscp.php:147
+#: controllers/Recordscp.php:156 controllers/Recordscp.php:249
+#: controllers/Recordscp.php:258 controllers/Recordscp.php:279
+#: controllers/Recordscp.php:288 controllers/Recordscp.php:450
+#: controllers/Recordscp.php:469 controllers/Recordscp.php:488
+#: controllers/Recordscp.php:548
+msgid "Kayıt işlemi Başarısız"
+msgstr ""
+
+#: controllers/Recordscp.php:45 controllers/Recordscp.php:54
+#: controllers/Recordscp.php:75 controllers/Recordscp.php:84
+#: controllers/Recordscp.php:145 controllers/Recordscp.php:154
+#: controllers/Recordscp.php:247 controllers/Recordscp.php:256
+#: controllers/Recordscp.php:277 controllers/Recordscp.php:286
+#: controllers/Recordscp.php:345 controllers/Recordscp.php:362
+#: controllers/Recordscp.php:448 controllers/Recordscp.php:467
+#: controllers/Recordscp.php:486 controllers/Recordscp.php:546
+msgid "Kayıt işlemi Başarılı"
+msgstr ""
+
+#: controllers/Recordscp.php:348 controllers/Recordscp.php:365
+msgid "Bu Kullanıcı Mevcut."
+msgstr ""
+
+#: controllers/Recordscp.php:379
+msgid "Bu Kullanıcı Silinemez.."
+msgstr ""
+
+#: core/NINT_Controller.php:104
+msgid " Yıl "
+msgstr ""
+
+#: core/NINT_Controller.php:107
+msgid " Gün "
+msgstr ""
+
+#: core/NINT_Controller.php:110
+msgid " Saat "
+msgstr ""
+
+#: core/NINT_Controller.php:113
+msgid " Dakika "
+msgstr ""
+
+#: core/NINT_Controller.php:116
+msgid " Saniye"
+msgstr ""
+
+#: core/NINT_Controller.php:206
+msgid "Fotoğraf Yüklendi"
+msgstr ""
+
+#: core/NINT_Controller.php:243
+msgid "işlem başarılı"
+msgstr ""
+
+#: core/NINT_Controller.php:292
+msgid "Henüz Dil Dosyası Eklenmemiş.."
+msgstr ""
+
+#: helpers/generalibs_helper.php:21
+msgid "Sayfa Yayında"
+msgstr ""
+
+#: helpers/generalibs_helper.php:24
+msgid "Sayfa Yayında Değil"
+msgstr ""
+
+#: helpers/generalibs_helper.php:27 helpers/generalibs_helper.php:48
+msgid "tanımsız içerik"
+msgstr ""
+
+#: helpers/generalibs_helper.php:42
+#: views/admincp/includes/blogs/blogs-adds.php:87
+#: views/admincp/includes/blogs/blogs-edits.php:90
+#: views/admincp/includes/pages/pages-adds.php:87
+#: views/admincp/includes/pages/pages-edits.php:90
+#: views/admincp/includes/sliders/sliders-adds.php:87
+#: views/admincp/includes/sliders/sliders-edits.php:90
+msgid "Herkese Açık"
+msgstr ""
+
+#: helpers/generalibs_helper.php:45
+#: views/admincp/includes/blogs/blogs-adds.php:91
+#: views/admincp/includes/blogs/blogs-edits.php:94
+#: views/admincp/includes/pages/pages-adds.php:91
+#: views/admincp/includes/pages/pages-edits.php:94
+#: views/admincp/includes/sliders/sliders-adds.php:91
+#: views/admincp/includes/sliders/sliders-edits.php:94
+msgid "Üyelere Açık"
+msgstr ""
+
+#: helpers/generalibs_helper.php:197 helpers/generalibs_helper.php:201
+#: views/admincp/sidebar.php:22
+msgid "Yönetim Paneli"
+msgstr ""
+
+#: helpers/generalibs_helper.php:198
+msgid "versiyon: 0.1.0"
+msgstr ""
+
+#: helpers/generalibs_helper.php:216
+msgid "Buradasınız: "
+msgstr ""
+
+#: models/MenuGlobal_Model.php:43 models/MenuGlobal_Model.php:61
+#: views/nintweb/basic/header.php:9
+msgid "Anasayfa"
+msgstr ""
+
+#: models/MenuGlobal_Model.php:43 models/MenuGlobal_Model.php:61
+msgid "Sayfa Yok"
+msgstr ""
+
+#: views/admincp/footer-top.php:7
+msgid "Copyright"
+msgstr ""
+
+#: views/admincp/footer-top.php:7
+msgid "Her hakkı saklıdır."
+msgstr ""
+
+#: views/admincp/footer.php:237
+#: views/admincp/includes/generals/sosialmedia-links.php:44
+#: views/admincp/includes/generals/sosialmedia-links.php:91
+msgid "Sosyal Medya Adı:"
+msgstr ""
+
+#: views/admincp/footer.php:243
+#: views/admincp/includes/generals/sosialmedia-links.php:50
+#: views/admincp/includes/generals/sosialmedia-links.php:97
+msgid "Sosyal Medya Linki"
+msgstr ""
+
+#: views/admincp/footer.php:249
+#: views/admincp/includes/generals/sosialmedia-links.php:56
+#: views/admincp/includes/generals/sosialmedia-links.php:103
+msgid "Sosyal Medya ikonu"
+msgstr ""
+
+#: views/admincp/footer.php:258 views/admincp/includes/mailbox/mail-read.php:34
+#: views/admincp/includes/mailbox/mail-read.php:65
+msgid "Sil"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:12
+msgid "Yeni Blog Ekle"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:37
+#: views/admincp/includes/blogs/blogs-edits.php:37
+msgid "Blog Title"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:38
+#: views/admincp/includes/blogs/blogs-edits.php:38
+msgid "Blog Title Girin"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:43
+#: views/admincp/includes/blogs/blogs-edits.php:43
+msgid "Blog İçeriği"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:44
+#: views/admincp/includes/blogs/blogs-edits.php:44
+msgid "Blog İçeriği Girin"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:50
+#: views/admincp/includes/blogs/blogs-edits.php:50
+msgid "Blog Fotoğrafı"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:51
+#: views/admincp/includes/blogs/blogs-edits.php:51
+msgid "Blog Fotoğrafı Girin"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:57
+#: views/admincp/includes/blogs/blogs-edits.php:58
+#: views/admincp/includes/pages/pages-adds.php:57
+#: views/admincp/includes/pages/pages-edits.php:58
+#: views/admincp/includes/sliders/sliders-adds.php:57
+#: views/admincp/includes/sliders/sliders-edits.php:58
+msgid ""
+"<em><small class='font-red-thunderbird'><b>(izin verilen dosya türleri: 'jpg|"
+"jpeg|png')</b></small> <small>İzin verilen Dosya Boyutu: "
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:69
+#: views/admincp/includes/blogs/blogs-edits.php:72
+#: views/admincp/includes/generals/general-settings.php:59
+#: views/admincp/includes/pages/pages-adds.php:69
+#: views/admincp/includes/pages/pages-edits.php:72
+#: views/admincp/includes/sliders/sliders-adds.php:69
+#: views/admincp/includes/sliders/sliders-edits.php:72
+msgid "Yayınlama Özellikleri"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:73
+#: views/admincp/includes/blogs/blogs-edits.php:76
+#: views/admincp/includes/pages/pages-adds.php:73
+#: views/admincp/includes/pages/pages-edits.php:76
+#: views/admincp/includes/sliders/sliders-adds.php:73
+#: views/admincp/includes/sliders/sliders-edits.php:76
+msgid "Yayınlama Ayarları"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:76
+#: views/admincp/includes/blogs/blogs-edits.php:79
+#: views/admincp/includes/pages/pages-adds.php:76
+#: views/admincp/includes/pages/pages-edits.php:79
+#: views/admincp/includes/sliders/sliders-adds.php:76
+#: views/admincp/includes/sliders/sliders-edits.php:79
+msgid "Yayımla"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:80
+#: views/admincp/includes/blogs/blogs-edits.php:83
+#: views/admincp/includes/pages/pages-adds.php:80
+#: views/admincp/includes/pages/pages-edits.php:83
+#: views/admincp/includes/sliders/sliders-adds.php:80
+#: views/admincp/includes/sliders/sliders-edits.php:83
+msgid "Yayımlama"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:84
+#: views/admincp/includes/blogs/blogs-edits.php:87
+#: views/admincp/includes/pages/pages-adds.php:84
+#: views/admincp/includes/pages/pages-edits.php:87
+#: views/admincp/includes/sliders/sliders-adds.php:84
+#: views/admincp/includes/sliders/sliders-edits.php:87
+msgid "Görünürlük Ayarları"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:95
+#: views/admincp/includes/blogs/blogs-alls.php:26
+msgid "Blog Dili"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:98
+#: views/admincp/includes/blogs/blogs-edits.php:101
+#: views/admincp/includes/pages/pages-adds.php:98
+#: views/admincp/includes/pages/pages-edits.php:101
+#: views/admincp/includes/sliders/sliders-adds.php:98
+#: views/admincp/includes/sliders/sliders-edits.php:101
+msgid "Türkçe"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:107
+#: views/admincp/includes/blogs/blogs-edits.php:110
+#: views/admincp/includes/generals/admins-menus.php:143
+#: views/admincp/includes/generals/general-settings.php:75
+#: views/admincp/includes/generals/sosialmedia-links.php:75
+#: views/admincp/includes/pages/pages-adds.php:107
+#: views/admincp/includes/pages/pages-edits.php:110
+#: views/admincp/includes/sliders/sliders-adds.php:107
+#: views/admincp/includes/sliders/sliders-edits.php:110
+#: views/admincp/includes/users/users-adds.php:110
+#: views/admincp/includes/users/users-edits.php:110
+msgid "Değişiklikleri Kaydet"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:116
+msgid "Blog Özellikleri"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:120
+#: views/admincp/includes/pages/pages-adds.php:135
+#: views/admincp/includes/pages/pages-edits.php:138
+msgid "Sayfa Şablon Ayarları"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-adds.php:123
+#: views/admincp/includes/pages/pages-adds.php:138
+#: views/admincp/includes/pages/pages-edits.php:141
+msgid "DefaultTemplate"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:10
+msgid "Tüm Bloglar"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:19
+#: views/admincp/includes/generals/admins-menus.php:25
+#: views/admincp/includes/pages/pages-alls.php:19
+#: views/admincp/includes/sliders/sliders-alls.php:19
+#: views/admincp/includes/users/users-alls.php:31
+msgid "S.No"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:20
+msgid "Blog Başlıkları"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:21
+msgid "Blog Yazarı"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:22
+msgid "Blog Ekleme"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:23
+msgid "Blog Durumu"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:24
+#: views/admincp/includes/generals/admins-menus.php:30
+#: views/admincp/includes/pages/pages-adds.php:129
+#: views/admincp/includes/pages/pages-alls.php:24
+#: views/admincp/includes/pages/pages-edits.php:132
+#: views/admincp/includes/sliders/sliders-alls.php:24
+msgid "Sıra"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:25
+#: views/admincp/includes/pages/pages-alls.php:25
+#: views/admincp/includes/sliders/sliders-alls.php:25
+msgid "Kimler Görüyor"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:27
+#: views/admincp/includes/pages/pages-alls.php:27
+#: views/admincp/includes/sliders/sliders-alls.php:27
+#: views/admincp/includes/users/users-alls.php:41
+msgid "İşlemler"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:45
+msgid "Silinen Blog için Fotoğraf ön izlemesi yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:50
+msgid "Silinen Blog için düzenleme yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:56
+#: views/admincp/includes/pages/pages-alls.php:56
+#: views/admincp/includes/sliders/sliders-alls.php:56
+#: views/admincp/includes/users/users-alls.php:72
+msgid "Geri Al"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:67
+msgid "Blogu Düzenle"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:72
+msgid "Blogu Sil"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-alls.php:80
+msgid "Henüz Blog Eklenmemiş!!"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-edits.php:12
+msgid "Blog Düzenle"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-edits.php:98
+#: views/admincp/includes/pages/pages-adds.php:95
+#: views/admincp/includes/pages/pages-alls.php:26
+#: views/admincp/includes/pages/pages-edits.php:98
+msgid "Sayfa Dili"
+msgstr ""
+
+#: views/admincp/includes/blogs/blogs-edits.php:119
+#: views/admincp/includes/pages/pages-edits.php:156
+#: views/admincp/includes/sliders/sliders-edits.php:119
+msgid "Fotoğraf Ön İzleme"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:19
+msgid "Admin Panel Menüleri"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:26
+msgid "Title"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:27
+msgid "URI"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:28
+msgid "Icon"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:29
+msgid "On/Off"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:31
+msgid "Durum"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:85
+msgid "Yeni Admin Menu Ekle"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:110
+msgid "Ana Menu Seç"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:112
+#: views/admincp/includes/generals/general-settings.php:66
+msgid "Ana Menü Seçin"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:121
+msgid "Admin Menu Title"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:122
+msgid "Admin Menu Title Girin"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:127
+msgid "Admin Menu URI"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:128
+msgid "Admin Menu URI Girin"
+msgstr ""
+
+#: views/admincp/includes/generals/admins-menus.php:133
+msgid "Admin Menu Icon"
+msgstr ""
+
+#: views/admincp/includes/generals/general-settings.php:12
+msgid "Genel Site Ayarları"
+msgstr ""
+
+#: views/admincp/includes/generals/general-settings.php:15
+msgid "Site: "
+msgstr ""
+
+#: views/admincp/includes/generals/general-settings.php:47
+msgid "Site Title Girin"
+msgstr ""
+
+#: views/admincp/includes/generals/general-settings.php:64
+msgid "Template Seç"
+msgstr ""
+
+#: views/admincp/includes/generals/sosialmedia-links.php:17
+msgid "Sosyal Medya Linki Ekle"
+msgstr ""
+
+#: views/admincp/includes/generals/sosialmedia-links.php:67
+msgid "Ekle"
+msgstr ""
+
+#: views/admincp/includes/generals/sosialmedia-links.php:85
+msgid "Sosyal Medya Linkleri"
+msgstr ""
+
+#: views/admincp/includes/headerfolders/menu-footer.php:31
+msgid "Profil Paneli"
+msgstr ""
+
+#: views/admincp/includes/headerfolders/menu-footer.php:34
+#: views/admincp/sidebar.php:34 views/nintweb/basic/header-top.php:38
+#: views/nintweb/newspaper/header-top.php:19
+msgid "Çıkış Yap"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-box.php:7
+msgid "Toplam: "
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-box.php:7
+msgid " eMail var"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-box.php:22
+msgid "Inbox"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-box.php:75
+msgid "Kutu boş"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-menu.php:5
+msgid "Kutular"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-read.php:21
+msgid "Okunan Posta"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-read.php:35
+#: views/admincp/includes/mailbox/mail-read.php:62
+msgid "Cevapla"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mail-read.php:38
+#: views/admincp/includes/mailbox/mail-read.php:66
+msgid "Yazdır"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:14
+msgid "MailBox Ayarları"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:40
+msgid ""
+"eMailBox Server: <em><smal>(IP Adresi veya Domain Adresi Yazabilirsiniz.)</"
+"smal></em>"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:41
+msgid "eMailBox Server Bilgisini Girin"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:44
+msgid "Kullanıcı Adı: <em><smal>(email adresinizi yazın.)</smal></em>"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:45
+msgid "eMailBox Kullanıcı Bilgisini Girin"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:48
+msgid "Şifreniz: <em><smal>(email şifrenizi yazın.)</smal></em>"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:49
+msgid "eMailBox Şifre Bilgisini Girin"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:52
+msgid "Şifreli Bağlantı Türü"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:54
+msgid "Şifre Türü Seçin"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:55
+msgid "SSL"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:56
+msgid "TLS"
+msgstr ""
+
+#: views/admincp/includes/mailbox/mailbox-settings.php:62
+msgid "Ayarlarını Kayıt Edin"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:12
+msgid "Yeni Sayfa Ekle"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:37
+#: views/admincp/includes/pages/pages-edits.php:37
+msgid "Sayfa Title"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:38
+#: views/admincp/includes/pages/pages-edits.php:38
+msgid "Sayfa Title Girin"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:43
+#: views/admincp/includes/pages/pages-edits.php:43
+msgid "Sayfa İçeriği"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:44
+#: views/admincp/includes/pages/pages-edits.php:44
+msgid "Sayfa İçeriği Girin"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:50
+#: views/admincp/includes/pages/pages-edits.php:50
+msgid "Sayfa Fotoğrafı"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:51
+#: views/admincp/includes/pages/pages-edits.php:51
+msgid "Sayfa Fotoğrafı Girin"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:116
+#: views/admincp/includes/pages/pages-edits.php:119
+msgid "Sayfa Özellikleri"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:120
+#: views/admincp/includes/pages/pages-edits.php:123
+msgid "Menü Konumu"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:123
+#: views/admincp/includes/pages/pages-edits.php:126
+msgid "Üst Menü"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-adds.php:124
+#: views/admincp/includes/pages/pages-edits.php:127
+msgid "Alt Menü"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:10
+msgid "Tüm Sayfalar"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:20
+msgid "Sayfa Başlıkları"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:21
+msgid "Sayfa Yazarı"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:22
+msgid "Sayfa Ekleme"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:23
+msgid "Sayfa Durumu"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:45
+msgid "Silinen Sayfa için Fotoğraf ön izlemesi yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:50
+msgid "Silinen Sayfa için düzenleme yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:67
+#: views/admincp/includes/pages/pages-edits.php:12
+#: views/admincp/includes/sliders/sliders-alls.php:65
+msgid "Sayfayı Düzenle"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:72
+#: views/admincp/includes/sliders/sliders-alls.php:66
+msgid "Sayfayı Sil"
+msgstr ""
+
+#: views/admincp/includes/pages/pages-alls.php:80
+msgid "Henüz Sayfa Eklenmemiş!!"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:12
+msgid "Yeni Slider Ekle"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:37
+#: views/admincp/includes/sliders/sliders-edits.php:37
+msgid "Slider Title"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:38
+#: views/admincp/includes/sliders/sliders-edits.php:38
+msgid "Slider Title Girin"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:43
+#: views/admincp/includes/sliders/sliders-edits.php:43
+msgid "Slider İçeriği"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:44
+#: views/admincp/includes/sliders/sliders-edits.php:44
+msgid "Slider İçeriği Girin"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:50
+#: views/admincp/includes/sliders/sliders-edits.php:50
+msgid "Slider Fotoğrafı"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:51
+#: views/admincp/includes/sliders/sliders-edits.php:51
+msgid "Slider Fotoğrafı Girin"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-adds.php:95
+#: views/admincp/includes/sliders/sliders-alls.php:26
+#: views/admincp/includes/sliders/sliders-edits.php:98
+msgid "Slider Dili"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:10
+msgid "Tüm Sliderlar"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:20
+msgid "Slider Başlıkları"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:21
+msgid "Slider Yazarı"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:22
+msgid "Slider Ekleme"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:23
+msgid "Slider Durumu"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:45
+msgid "Silinen Slider için Fotoğraf ön izlemesi yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:50
+msgid "Silinen Slider için düzenleme yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-alls.php:72
+msgid "Henüz Slider Eklenmemiş!!"
+msgstr ""
+
+#: views/admincp/includes/sliders/sliders-edits.php:12
+msgid "Slideri Düzenle"
+msgstr ""
+
+#: views/admincp/includes/users/rolesfolders/admin-roles.php:5
+msgid "Menü İzinleri"
+msgstr ""
+
+#: views/admincp/includes/users/rolesfolders/admin-roles.php:12
+msgid "Admin Menü"
+msgstr ""
+
+#: views/admincp/includes/users/rolesfolders/admin-roles.php:13
+#: views/admincp/includes/users/rolesfolders/pages-roles.php:13
+msgid "Erişim izni"
+msgstr ""
+
+#: views/admincp/includes/users/rolesfolders/pages-roles.php:5
+msgid "Sayfa İzinleri"
+msgstr ""
+
+#: views/admincp/includes/users/rolesfolders/pages-roles.php:12
+msgid "Sayfalar"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:12
+msgid "Yeni Kullanıcı Ekle"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:42
+#: views/admincp/includes/users/users-alls.php:32
+#: views/admincp/includes/users/users-edits.php:42
+msgid "Kullanıcı Adı"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:43
+#: views/admincp/includes/users/users-edits.php:43
+msgid "Kullanıcı Adı Girin"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:48
+#: views/admincp/includes/users/users-alls.php:33
+#: views/admincp/includes/users/users-edits.php:48
+msgid "E-posta Adresi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:49
+#: views/admincp/includes/users/users-edits.php:49
+msgid "E-posta Adresi Girin"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:54
+msgid "Kullanıcı Şifresi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:55
+#: views/admincp/includes/users/users-edits.php:55
+msgid "Kullanıcı Şifresi Girin"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:67
+#: views/admincp/includes/users/users-edits.php:67
+msgid "Kullanıcı Detayları"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:71
+#: views/admincp/includes/users/users-edits.php:71
+msgid "Kullanıcı Yetkisi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:74
+#: views/admincp/includes/users/users-edits.php:74
+msgid "Standart Kullanıcı"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:79
+#: views/admincp/includes/users/users-edits.php:79
+msgid "Ebeveyn Kullanıcı"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:82
+#: views/admincp/includes/users/users-edits.php:82
+msgid "Kullanıcı Seçin"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:90
+#: views/admincp/includes/users/users-edits.php:90
+msgid "Kullanıcı Bildirimi Ayarları"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:93
+#: views/admincp/includes/users/users-edits.php:93
+msgid "Kullanıcı Bildirimi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:94
+#: views/admincp/includes/users/users-edits.php:94
+msgid "SMS Bildirimi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:95
+#: views/admincp/includes/users/users-edits.php:95
+msgid "e-mail Bildirimi"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:100
+#: views/admincp/includes/users/users-edits.php:100
+msgid "Tarayıcı Bildirimi Ayarları"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:103
+#: views/admincp/includes/users/users-edits.php:103
+msgid "Tarayıcı Bildirimi Yok"
+msgstr ""
+
+#: views/admincp/includes/users/users-adds.php:104
+#: views/admincp/includes/users/users-edits.php:104
+msgid "Tarayıcı Bildirimi Var"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:22
+msgid "Tüm Kullanıcılar"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:34
+msgid "Kayıt tarihi"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:35
+msgid "Durumu"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:36
+msgid "Yetkisi"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:37
+msgid "Siparişler"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:38
+msgid "Yorumlar"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:39
+msgid "Konular"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:40
+msgid "Kayıt Türü"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:61
+msgid "Silinen Kullanıcı için Yetkilendirme yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:62
+#: views/admincp/includes/users/users-alls.php:76
+msgid "Kullanıcıyı Yetklileri"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:66
+msgid "Silinen Kullanıcı için Düzenleme yapılamaz."
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:67
+#: views/admincp/includes/users/users-alls.php:77
+#: views/admincp/includes/users/users-edits.php:12
+msgid "Kullanıcıyı Düzenle"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:78
+msgid "Kullanıcıyı Sil"
+msgstr ""
+
+#: views/admincp/includes/users/users-alls.php:84
+msgid "Henüz Kullanıcı Kaydı Yok!!"
+msgstr ""
+
+#: views/admincp/includes/users/users-edits.php:54
+msgid "Kullanıcı Şifresini Düzenle"
+msgstr ""
+
+#: views/admincp/includes/users/users-roles.php:24
+msgid "Satış"
+msgstr ""
+
+#: views/admincp/includes/users/users-roles.php:30
+#: views/nintweb/newspaper/index.php:23 views/nintweb/newspaper/pages.php:20
+msgid "Yorum"
+msgstr ""
+
+#: views/admincp/includes/users/users-roles.php:36
+msgid "Konu"
+msgstr ""
+
+#: views/admincp/index.php:58
+msgid "Online Kullanıcı Listesi"
+msgstr ""
+
+#: views/admincp/index.php:69 views/admincp/index.php:89
+msgid "Tüm Listeyi Gör"
+msgstr ""
+
+#: views/admincp/index.php:78
+msgid "Son Kayıt Olan Kullanıcı"
+msgstr ""
+
+#: views/login/login.php:20
+msgid "Kullanıcı Girişi"
+msgstr ""
+
+#: views/login/login.php:23
+msgid "Email Adresi Girin"
+msgstr ""
+
+#: views/login/login.php:27
+msgid "Şifrenizi Girin"
+msgstr ""
+
+#: views/login/login.php:39 views/nintweb/basic/header-top.php:27
+#: views/nintweb/newspaper/header-top.php:8
+msgid "Giriş Yap"
+msgstr ""
+
+#: views/login/login.php:44
+msgid "- VEYA -"
+msgstr ""
+
+#: views/login/login.php:45
+msgid "Facebook ile Giriş Yap"
+msgstr ""
+
+#: views/login/login.php:46
+msgid "Google+ ile Giriş Yap"
+msgstr ""
+
+#: views/login/login.php:48
+msgid "Şifremi unuttum"
+msgstr ""
+
+#: views/login/login.php:49
+msgid "Kayıt ol"
+msgstr ""
+
+#: views/nintweb/basic/header-top.php:20
+msgid "ANASAYFA"
+msgstr ""
+
+#: views/nintweb/basic/header-top.php:34
+#: views/nintweb/newspaper/header-top.php:15
+msgid "Yönetim"
+msgstr ""
+
+#: views/nintweb/basic/header-top.php:44
+msgid "Takip Sistemine Giriş"
+msgstr ""
+
+#: views/nintweb/newspaper/footer-top.php:7
+msgid "Biz Kimiz"
+msgstr ""
+
+#: views/nintweb/newspaper/footer-top.php:20
+msgid "Kategoriler"
+msgstr ""
+
+#: views/nintweb/newspaper/footer-top.php:37
+msgid "Son Tweetler"
+msgstr ""
+
+#: views/nintweb/newspaper/footer-top.php:49
+msgid "Son Makaleler"
+msgstr ""
+
+#: views/nintweb/newspaper/footer-top.php:92
+msgid "Yukarı"
+msgstr ""
+
+#: views/nintweb/newspaper/header-top.php:29
+msgid "Bu Gün Yazılan Bloglar"
+msgstr ""
+
+#: views/nintweb/newspaper/index.php:18 views/template/blogTemplate.php:20
+msgid "Tarih: "
+msgstr ""
+
+#: views/nintweb/newspaper/index.php:20 views/nintweb/newspaper/pages.php:21
+#: views/template/blogTemplate.php:18
+msgid "Ekleyen: "
+msgstr ""
+
+#: views/nintweb/newspaper/side-bar.php:7
+msgid "Site içinde arama yap"
+msgstr ""
+
+#: views/nintweb/newspaper/side-bar.php:13
+msgid "Bizi Takip Edin"
+msgstr ""
+
+#: views/nintweb/newspaper/side-bar.php:22
+msgid "Blog Arşivi"
+msgstr ""
+
+#: views/template/blogTemplate.php:24
+msgid "Devamını Oku"
+msgstr ""
+
+#: views/template/contactTemplate.php:25 views/template/contactTemplate2.php:10
+msgid "FORMU"
+msgstr ""
+
+#: views/template/contactTemplate.php:28
+msgid "Adınız*"
+msgstr ""
+
+#: views/template/contactTemplate.php:31
+msgid "Email*"
+msgstr ""
+
+#: views/template/contactTemplate.php:34
+msgid "Konu Başlığı*"
+msgstr ""
+
+#: views/template/contactTemplate.php:37
+msgid "Mesaj içeriği*"
+msgstr ""
+
+#: views/template/contactTemplate.php:40
+msgid "Gönder"
+msgstr ""
+
+#: views/template/contactTemplate.php:46
+msgid "BİLGİLERİ"
+msgstr ""
+
+#: views/template/contactTemplate2.php:12
+msgid "Lütfen Gerekli Alanları Doldurun *"
+msgstr ""
+
+#: views/template/contactTemplate2.php:15
+msgid "Adınız: "
+msgstr ""
+
+#: views/template/contactTemplate2.php:19
+msgid "E-mail Adresiniz: "
+msgstr ""
+
+#: views/template/contactTemplate2.php:23
+msgid "WebSiteniz: "
+msgstr ""
+
+#: views/template/contactTemplate2.php:32
+msgid "Konu Başlığı: "
+msgstr ""
+
+#: views/template/contactTemplate2.php:36
+msgid "Konu içeriği: "
+msgstr ""
+
+#: views/template/contactTemplate2.php:45
+msgid "Biz neredeyiz?"
+msgstr ""

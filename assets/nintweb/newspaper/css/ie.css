@@ -1,0 +1,13 @@
+#bottom-sidebar .widget .tweet_list .tweet_avatar,
+#back-top a,
+.entry-item .entry-date,
+.entry-box .entry-date,
+.about-author .author-avatar .avatar-thumb,
+.about-author .author-avatar .avatar-thumb img,
+.comment-wrap .comment-avatar p,
+.comment-wrap .comment-avatar p img,
+#main-menu > li,
+.flex-control-paging li a {
+	behavior: url(js/PIE.htc);
+}
+

@@ -1,0 +1,10 @@
+/*
+Theme Names	| Basic
+Theme URI	| http://www.nint.io/template/
+Author		| the Nint.io Template
+Author URI	| http://www.nint.io/
+Description	| açıklama
+Version		| 0.1.0
+License		| Lisans Ücretli
+License URI	| http://www.nint.io/lisanse/
+*/

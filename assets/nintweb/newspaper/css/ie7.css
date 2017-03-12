@@ -1,0 +1,19 @@
+ul li article,
+#sidebar .widget .kp-comment-list li .entry-author,
+#sidebar .widget .kp-archieve li i, #sidebar .widget .kp-categories li i,
+#main-col .kp-categories li,
+#main-col .tweet_list li .tweet_avatar,
+#main-col .widget .kp-comment-list li .entry-author,
+.star-list-1 li, .star-list-2 li, .circle-list li, .check-list li, .arrow-list li, .play-list li,
+.element-box .kp-comment-list li .entry-author {
+	margin-left:-15px !important;
+}
+.comments-list .comment {
+	margin-left:-20px;
+}
+#main-col .related-widget .kp-entry-list li article {
+	margin-left:0 !important;
+}
+#home-slider .flex-direction-nav {
+	top:-25px;
+}
