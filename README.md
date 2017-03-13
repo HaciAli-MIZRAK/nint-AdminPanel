@@ -1,3 +1,4 @@
+Çalışan Örnek için: http://demo.nint.io/login/login.html
 # nint-AdminPanel
 Yeni Nesil Geliştirmekte olan Yönetim Paneli
 Nint.io Yönetim Paneli Kullanım Kılavuzu Mevcut versiyon: 0.1.0
