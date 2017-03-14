@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '94.138.223.196',
-	'username' => 'nintionin',
-	'password' => 'nNk39^9g',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'admin_nintio',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => 'nint_web_',
